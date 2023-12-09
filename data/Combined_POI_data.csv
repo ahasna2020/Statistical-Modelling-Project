@@ -1,0 +1,369 @@
+,category_alias,category_title,poi_name,poi_distance,poi_address,poi_rating,free_bikes,station_lat,station_long
+0,mexican,Mexican,Angela's Cafe - Orient Heights,40.67033565624939,1012 Bennington St,4.5,,,
+1,breakfast_brunch,Breakfast & Brunch,Angela's Cafe - Orient Heights,40.67033565624939,1012 Bennington St,4.5,,,
+2,chinese,Chinese,Little Asia Restaurant,94.50341617692204,991 Bennington St,4.0,,,
+3,italian,Italian,Luna's Restaurant Italian and Latin Cuisine,251.88124675968996,945 Saratoga St,4.5,,,
+4,latin,Latin American,Luna's Restaurant Italian and Latin Cuisine,251.88124675968996,945 Saratoga St,4.5,,,
+5,bars,Bars,Luna's Restaurant Italian and Latin Cuisine,251.88124675968996,945 Saratoga St,4.5,,,
+6,pubs,Pubs,Renegade's Pub,57.613708249649314,1004 Bennington St,4.0,,,
+7,burgers,Burgers,Renegade's Pub,57.613708249649314,1004 Bennington St,4.0,,,
+8,mexican,Mexican,Mi Pueblito Orient Heights,207.01529477233643,964 Saratoga St,3.5,,,
+9,seafood,Seafood,Mi Pueblito Orient Heights,207.01529477233643,964 Saratoga St,3.5,,,
+10,breakfast_brunch,Breakfast & Brunch,Mi Pueblito Orient Heights,207.01529477233643,964 Saratoga St,3.5,,,
+11,vietnamese,Vietnamese,New Saigon,112.06742695749917,985 Bennington St,4.5,,,
+12,delis,Delis,Milano's Delicatessen,110.48043038957576,978 Saratoga St,4.0,,,
+13,pizza,Pizza,Milano's Delicatessen,110.48043038957576,978 Saratoga St,4.0,,,
+14,coffee,Coffee & Tea,Milano's Delicatessen,110.48043038957576,978 Saratoga St,4.0,,,
+15,sushi,Sushi Bars,Sunny Cafe,62.30875144784778,1000 Bennington St,4.5,,,
+16,italian,Italian,Sammy Carlo's Delicatessen & Catering,1098.389168976247,567 Bennington St,4.5,,,
+17,tradamerican,American,Sammy Carlo's Delicatessen & Catering,1098.389168976247,567 Bennington St,4.5,,,
+18,delis,Delis,Sammy Carlo's Delicatessen & Catering,1098.389168976247,567 Bennington St,4.5,,,
+19,seafood,Seafood,Royal Roast Beef & Seafood,412.3982411814177,752 Bennington St,4.0,,,
+20,tradamerican,American,Royal Roast Beef & Seafood,412.3982411814177,752 Bennington St,4.0,,,
+21,latin,Latin American,El Kiosco Restaurant,133.0895990866373,972 Saratoga St,4.0,,,
+22,bars,Bars,El Kiosco Restaurant,133.0895990866373,972 Saratoga St,4.0,,,
+23,colombian,Colombian,Melodias,130.35253156523774,1045 Saratoga St,4.0,,,
+24,pizza,Pizza,Woody's Pizza & Liquors,106.69560536545588,9 Barnes Ave,2.5,,,
+25,bars,Bars,La Fonda Colombiana,133.12079093187896,972 Saratoga St,4.0,,,
+26,colombian,Colombian,La Fonda Colombiana,133.12079093187896,972 Saratoga St,4.0,,,
+27,desserts,Desserts,Saratoga Market Ice Cream,402.94392197116224,16 Trident St,4.5,,,
+28,icecream,Ice Cream & Frozen Yogurt,Saratoga Market Ice Cream,402.94392197116224,16 Trident St,4.5,,,
+29,donuts,Donuts,Dunkin',208.47059656475165,951 Bennington St E,2.0,,,
+30,coffee,Coffee & Tea,Dunkin',208.47059656475165,951 Bennington St E,2.0,,,
+31,colombian,Colombian,Napoles Restaurant,840.0956120364749,1233 Bennington St,3.0,,,
+32,bars,Bars,Napoles Restaurant,840.0956120364749,1233 Bennington St,3.0,,,
+33,buffets,Buffets,Napoles Restaurant,840.0956120364749,1233 Bennington St,3.0,,,
+34,pizza,Pizza,Woodys Pizza EF,106.54620504489624,9 Barnes Ave,1.0,,,
+35,burgers,Burgers,Woodys Pizza EF,106.54620504489624,9 Barnes Ave,1.0,,,
+36,wraps,Wraps,Woodys Pizza EF,106.54620504489624,9 Barnes Ave,1.0,,,
+37,coffee,Coffee & Tea,STARBUCKS COFFEE,828.7731604357087,430 William F McClellan Hwy,3.0,,,
+38,parks,Parks,Constitution Beach,596.0910992595735,799 Bennington St,4.0,,,
+39,swimmingpools,Swimming Pools,Constitution Beach,596.0910992595735,799 Bennington St,4.0,,,
+40,beaches,Beaches,Constitution Beach,596.0910992595735,799 Bennington St,4.0,,,
+41,tradamerican,American,Cunard Tavern,186.44514041351488,24 Orleans St E,3.5,,,
+42,gastropubs,Gastropubs,Cunard Tavern,186.44514041351488,24 Orleans St E,3.5,,,
+43,beerbar,Beer Bar,Cunard Tavern,186.44514041351488,24 Orleans St E,3.5,,,
+44,bars,Bars,Boston Sail Loft,1133.331214921616,80 Atlantic Ave,4.5,,,
+45,tradamerican,American,Boston Sail Loft,1133.331214921616,80 Atlantic Ave,4.5,,,
+46,seafood,Seafood,Boston Sail Loft,1133.331214921616,80 Atlantic Ave,4.5,,,
+47,italian,Italian,D'Parma Restaurant,70.23921135982252,182 Sumner St,4.0,,,
+48,beer_and_wine,"Beer, Wine & Spirits",The Quiet Few,362.3206943735236,331 Sumner St,4.5,,,
+49,burgers,Burgers,The Quiet Few,362.3206943735236,331 Sumner St,4.5,,,
+50,cocktailbars,Cocktail Bars,The Quiet Few,362.3206943735236,331 Sumner St,4.5,,,
+51,mexican,Mexican,Taco Mex,123.99268865806869,65 Maverick Sq,3.5,,,
+52,latin,Latin American,Taco Mex,123.99268865806869,65 Maverick Sq,3.5,,,
+53,seafood,Seafood,Taco Mex,123.99268865806869,65 Maverick Sq,3.5,,,
+54,pizza,Pizza,Mida - East Boston,278.9971584470747,65 Lewis St,4.5,,,
+55,italian,Italian,Mida - East Boston,278.9971584470747,65 Lewis St,4.5,,,
+56,wine_bars,Wine Bars,Mida - East Boston,278.9971584470747,65 Lewis St,4.5,,,
+57,mexican,Mexican,Cactus Mexican Grill,154.7139508379713,44 Maverick Sq,4.0,,,
+58,salvadoran,Salvadoran,Cactus Mexican Grill,154.7139508379713,44 Maverick Sq,4.0,,,
+59,italian,Italian,Pazza on Porter,551.0675928481039,107 Porter St,4.0,,,
+60,lounges,Lounges,Pazza on Porter,551.0675928481039,107 Porter St,4.0,,,
+61,newamerican,New American,ReelHouse Boston,445.6038419709808,6 New St,3.5,,,
+62,seafood,Seafood,ReelHouse Boston,445.6038419709808,6 New St,3.5,,,
+63,breakfast_brunch,Breakfast & Brunch,ReelHouse Boston,445.6038419709808,6 New St,3.5,,,
+64,cafes,Cafes,Cafe Iterum,104.61277823721863,11 Father Jacobbe Rd,4.0,,,
+65,bbq,Barbeque,The Smoke Shop BBQ - East Boston,265.02785139732845,45 Lewis St,4.0,,,
+66,cocktailbars,Cocktail Bars,The Smoke Shop BBQ - East Boston,265.02785139732845,45 Lewis St,4.0,,,
+67,sandwiches,Sandwiches,The Smoke Shop BBQ - East Boston,265.02785139732845,45 Lewis St,4.0,,,
+68,pizza,Pizza,Santarpio's Pizza,561.7748377674851,111 Chelsea St,4.0,,,
+69,coffee,Coffee & Tea,Eagle Hill Cafe,346.3192133616803,65 Meridian St,4.5,,,
+70,breakfast_brunch,Breakfast & Brunch,Eagle Hill Cafe,346.3192133616803,65 Meridian St,4.5,,,
+71,juicebars,Juice Bars & Smoothies,Eagle Hill Cafe,346.3192133616803,65 Meridian St,4.5,,,
+72,seafood,Seafood,The Daily Catch,1156.8551728617358,65 Atlantic Ave,4.0,,,
+73,chinese,Chinese,Hong Kong Harbor Restaurant,45.24535452369151,5 Maverick Sq,3.5,,,
+74,mexican,Mexican,Santa Fe Burrito Grill - East Boston,298.16856487363964,303 Sumner St,4.5,,,
+75,seafood,Seafood,il Molo,1017.8070083486124,326 Commercial St,4.5,,,
+76,bakeries,Bakeries,La Sultana Bakery,146.5091367624514,40 Maverick Sq,4.0,,,
+77,colombian,Colombian,La Sultana Bakery,146.5091367624514,40 Maverick Sq,4.0,,,
+78,african,African,Tawakal Halal Cafe,947.5757334389172,389 Maverick St,5.0,,,
+79,halal,Halal,Tawakal Halal Cafe,947.5757334389172,389 Maverick St,5.0,,,
+80,somali,Somali,Tawakal Halal Cafe,947.5757334389172,389 Maverick St,5.0,,,
+81,mexican,Mexican,La Hacienda Restaurant and Bar,572.0209757150712,150 Meridian St,4.0,,,
+82,bars,Bars,La Hacienda Restaurant and Bar,572.0209757150712,150 Meridian St,4.0,,,
+83,italian,Italian,D'Parma Restaurant,79.69219824112427,182 Sumner St,4.0,,,
+84,bars,Bars,Boston Sail Loft,1204.476473243953,80 Atlantic Ave,4.5,,,
+85,tradamerican,American,Boston Sail Loft,1204.476473243953,80 Atlantic Ave,4.5,,,
+86,seafood,Seafood,Boston Sail Loft,1204.476473243953,80 Atlantic Ave,4.5,,,
+87,tradamerican,American,Cunard Tavern,250.1399929470972,24 Orleans St E,3.5,,,
+88,gastropubs,Gastropubs,Cunard Tavern,250.1399929470972,24 Orleans St E,3.5,,,
+89,beerbar,Beer Bar,Cunard Tavern,250.1399929470972,24 Orleans St E,3.5,,,
+90,mexican,Mexican,Taco Mex,63.87394482751938,65 Maverick Sq,3.5,,,
+91,latin,Latin American,Taco Mex,63.87394482751938,65 Maverick Sq,3.5,,,
+92,seafood,Seafood,Taco Mex,63.87394482751938,65 Maverick Sq,3.5,,,
+93,beer_and_wine,"Beer, Wine & Spirits",The Quiet Few,384.1279875766576,331 Sumner St,4.5,,,
+94,burgers,Burgers,The Quiet Few,384.1279875766576,331 Sumner St,4.5,,,
+95,cocktailbars,Cocktail Bars,The Quiet Few,384.1279875766576,331 Sumner St,4.5,,,
+96,italian,Italian,Pazza on Porter,471.6072386395187,107 Porter St,4.0,,,
+97,lounges,Lounges,Pazza on Porter,471.6072386395187,107 Porter St,4.0,,,
+98,mexican,Mexican,Cactus Mexican Grill,72.71085101986118,44 Maverick Sq,4.0,,,
+99,salvadoran,Salvadoran,Cactus Mexican Grill,72.71085101986118,44 Maverick Sq,4.0,,,
+100,coffee,Coffee & Tea,Eagle Hill Cafe,265.3617496895695,65 Meridian St,4.5,,,
+101,breakfast_brunch,Breakfast & Brunch,Eagle Hill Cafe,265.3617496895695,65 Meridian St,4.5,,,
+102,juicebars,Juice Bars & Smoothies,Eagle Hill Cafe,265.3617496895695,65 Meridian St,4.5,,,
+103,newamerican,New American,ReelHouse Boston,435.62913412436615,6 New St,3.5,,,
+104,seafood,Seafood,ReelHouse Boston,435.62913412436615,6 New St,3.5,,,
+105,breakfast_brunch,Breakfast & Brunch,ReelHouse Boston,435.62913412436615,6 New St,3.5,,,
+106,pizza,Pizza,Santarpio's Pizza,485.7908442399023,111 Chelsea St,4.0,,,
+107,cafes,Cafes,Cafe Iterum,183.04011972352424,11 Father Jacobbe Rd,4.0,,,
+108,pizza,Pizza,Mida - East Boston,347.8708184647303,65 Lewis St,4.5,,,
+109,italian,Italian,Mida - East Boston,347.8708184647303,65 Lewis St,4.5,,,
+110,wine_bars,Wine Bars,Mida - East Boston,347.8708184647303,65 Lewis St,4.5,,,
+111,seafood,Seafood,The Daily Catch,1225.80475929785,65 Atlantic Ave,4.0,,,
+112,italian,Italian,Rino's Place,1140.5236283089814,258 Saratoga St,4.0,,,
+113,seafood,Seafood,il Molo,1074.8752919752578,326 Commercial St,4.5,,,
+114,bakeries,Bakeries,La Sultana Bakery,64.5546330788301,40 Maverick Sq,4.0,,,
+115,colombian,Colombian,La Sultana Bakery,64.5546330788301,40 Maverick Sq,4.0,,,
+116,italian,Italian,Mario's Restaurant,1292.4835093945958,347 Chelsea St,4.5,,,
+117,chinese,Chinese,Hong Kong Harbor Restaurant,58.82585256778795,5 Maverick Sq,3.5,,,
+118,bbq,Barbeque,The Smoke Shop BBQ - East Boston,345.24598172355303,45 Lewis St,4.0,,,
+119,cocktailbars,Cocktail Bars,The Smoke Shop BBQ - East Boston,345.24598172355303,45 Lewis St,4.0,,,
+120,sandwiches,Sandwiches,The Smoke Shop BBQ - East Boston,345.24598172355303,45 Lewis St,4.0,,,
+121,african,African,Tawakal Halal Cafe,952.7405904944292,389 Maverick St,5.0,,,
+122,halal,Halal,Tawakal Halal Cafe,952.7405904944292,389 Maverick St,5.0,,,
+123,somali,Somali,Tawakal Halal Cafe,952.7405904944292,389 Maverick St,5.0,,,
+124,italian,Italian,Sammy Carlo's Delicatessen & Catering,198.2089055026069,567 Bennington St,4.5,,,
+125,tradamerican,American,Sammy Carlo's Delicatessen & Catering,198.2089055026069,567 Bennington St,4.5,,,
+126,delis,Delis,Sammy Carlo's Delicatessen & Catering,198.2089055026069,567 Bennington St,4.5,,,
+127,latin,Latin American,Rincon Limeño Restaurant,968.7826077664448,409 Chelsea St,4.5,,,
+128,peruvian,Peruvian,Rincon Limeño Restaurant,968.7826077664448,409 Chelsea St,4.5,,,
+129,mexican,Mexican,Angela's Cafe - Orient Heights,901.0464602778916,1012 Bennington St,4.5,,,
+130,breakfast_brunch,Breakfast & Brunch,Angela's Cafe - Orient Heights,901.0464602778916,1012 Bennington St,4.5,,,
+131,italian,Italian,Luna's Restaurant Italian and Latin Cuisine,668.9329542342672,945 Saratoga St,4.5,,,
+132,latin,Latin American,Luna's Restaurant Italian and Latin Cuisine,668.9329542342672,945 Saratoga St,4.5,,,
+133,bars,Bars,Luna's Restaurant Italian and Latin Cuisine,668.9329542342672,945 Saratoga St,4.5,,,
+134,mexican,Mexican,Taqueria Jalisco,1122.2000935518067,291 Bennington St,4.5,,,
+135,pubs,Pubs,Renegade's Pub,855.2806143139092,1004 Bennington St,4.0,,,
+136,burgers,Burgers,Renegade's Pub,855.2806143139092,1004 Bennington St,4.0,,,
+137,icecream,Ice Cream & Frozen Yogurt,Frio Rico,947.21733426514,360 R Bennington St,4.5,,,
+138,intlgrocery,International Grocery,Frio Rico,947.21733426514,360 R Bennington St,4.5,,,
+139,peruvian,Peruvian,Frio Rico,947.21733426514,360 R Bennington St,4.5,,,
+140,chinese,Chinese,Little Asia Restaurant,810.8113406183519,991 Bennington St,4.0,,,
+141,vietnamese,Vietnamese,New Saigon,792.2973803556117,985 Bennington St,4.5,,,
+142,seafood,Seafood,Royal Roast Beef & Seafood,494.1462985703845,752 Bennington St,4.0,,,
+143,tradamerican,American,Royal Roast Beef & Seafood,494.1462985703845,752 Bennington St,4.0,,,
+144,sushi,Sushi Bars,Sunny Cafe,850.3713562492152,1000 Bennington St,4.5,,,
+145,delis,Delis,Milano's Delicatessen,823.2562009928063,978 Saratoga St,4.0,,,
+146,pizza,Pizza,Milano's Delicatessen,823.2562009928063,978 Saratoga St,4.0,,,
+147,coffee,Coffee & Tea,Milano's Delicatessen,823.2562009928063,978 Saratoga St,4.0,,,
+148,localflavor,Local Flavor,East Boston,105.56012980032048,600 Bennington St,4.5,,,
+149,dominican,Dominican,Pikalo Empanada,1069.4154904016398,386 Chelsea St,4.5,,,
+150,sandwiches,Sandwiches,Pikalo Empanada,1069.4154904016398,386 Chelsea St,4.5,,,
+151,empanadas,Empanadas,Pikalo Empanada,1069.4154904016398,386 Chelsea St,4.5,,,
+152,hotdog,Hot Dogs,Perros Paisas,970.2750051128376,350 Bennington St,5.0,,,
+153,tradamerican,American,Perros Paisas,970.2750051128376,350 Bennington St,5.0,,,
+154,hotdogs,Fast Food,Perros Paisas,970.2750051128376,350 Bennington St,5.0,,,
+155,mexican,Mexican,Mi Pueblito Orient Heights,744.1803527155512,964 Saratoga St,3.5,,,
+156,seafood,Seafood,Mi Pueblito Orient Heights,744.1803527155512,964 Saratoga St,3.5,,,
+157,breakfast_brunch,Breakfast & Brunch,Mi Pueblito Orient Heights,744.1803527155512,964 Saratoga St,3.5,,,
+158,pizza,Pizza,DaCoopas Pizza,982.9776463153988,474 Saratoga St,3.5,,,
+159,sandwiches,Sandwiches,DaCoopas Pizza,982.9776463153988,474 Saratoga St,3.5,,,
+160,hotdogs,Fast Food,DaCoopas Pizza,982.9776463153988,474 Saratoga St,3.5,,,
+161,convenience,Convenience Stores,Richdale Convenience Store,44.340318722272585,120 Byron St,1.5,,,
+162,coffee,Coffee & Tea,Richdale Convenience Store,44.340318722272585,120 Byron St,1.5,,,
+163,peruvian,Peruvian,Pollos A La Brasa El Chalan,986.101192226722,405 Chelsea St,3.5,,,
+164,latin,Latin American,Pollos A La Brasa El Chalan,986.101192226722,405 Chelsea St,3.5,,,
+165,desserts,Desserts,Saratoga Market Ice Cream,513.3066010611275,16 Trident St,4.5,,,
+166,icecream,Ice Cream & Frozen Yogurt,Saratoga Market Ice Cream,513.3066010611275,16 Trident St,4.5,,,
+167,mexican,Mexican,La Hacienda Restaurant and Bar,158.9416857233076,150 Meridian St,4.0,,,
+168,bars,Bars,La Hacienda Restaurant and Bar,158.9416857233076,150 Meridian St,4.0,,,
+169,italian,Italian,Pazza on Porter,409.51100753707135,107 Porter St,4.0,,,
+170,lounges,Lounges,Pazza on Porter,409.51100753707135,107 Porter St,4.0,,,
+171,italian,Italian,Meridian Food Market,176.1067950318253,121 Meridian St,4.5,,,
+172,sandwiches,Sandwiches,Meridian Food Market,176.1067950318253,121 Meridian St,4.5,,,
+173,salad,Salad,Meridian Food Market,176.1067950318253,121 Meridian St,4.5,,,
+174,newamerican,New American,ReelHouse Boston,375.0337061782411,6 New St,3.5,,,
+175,seafood,Seafood,ReelHouse Boston,375.0337061782411,6 New St,3.5,,,
+176,breakfast_brunch,Breakfast & Brunch,ReelHouse Boston,375.0337061782411,6 New St,3.5,,,
+177,coffee,Coffee & Tea,Eagle Hill Cafe,235.80201035516288,65 Meridian St,4.5,,,
+178,breakfast_brunch,Breakfast & Brunch,Eagle Hill Cafe,235.80201035516288,65 Meridian St,4.5,,,
+179,juicebars,Juice Bars & Smoothies,Eagle Hill Cafe,235.80201035516288,65 Meridian St,4.5,,,
+180,pizza,Pizza,Santarpio's Pizza,475.2697557220996,111 Chelsea St,4.0,,,
+181,bakeries,Bakeries,Bono Restaurant and Catering,371.4870383694437,271 Meridian St,5.0,,,
+182,salvadoran,Salvadoran,Bono Restaurant and Catering,371.4870383694437,271 Meridian St,5.0,,,
+183,mexican,Mexican,Bono Restaurant and Catering,371.4870383694437,271 Meridian St,5.0,,,
+184,colombian,Colombian,El Peñol,421.59299356942944,54 Bennington St,4.5,,,
+185,italian,Italian,Rino's Place,911.3553277378132,258 Saratoga St,4.0,,,
+186,latin,Latin American,Topacio Restaurant,153.27298795381702,120 Meridian St,4.0,,,
+187,tacos,Tacos,Topacio Restaurant,153.27298795381702,120 Meridian St,4.0,,,
+188,italian,Italian,D'Parma Restaurant,448.15032646822783,182 Sumner St,4.0,,,
+189,seafood,Seafood,il Molo,1216.9348581316349,326 Commercial St,4.5,,,
+190,pizza,Pizza,Dirty Water Dough,203.4662911981393,20 Maverick St,4.0,,,
+191,salad,Salad,Dirty Water Dough,203.4662911981393,20 Maverick St,4.0,,,
+192,sandwiches,Sandwiches,Dirty Water Dough,203.4662911981393,20 Maverick St,4.0,,,
+193,bars,Bars,Pier 6 Boston Waterfront,737.0831154739603,1 8th St,3.5,,,
+194,newamerican,New American,Pier 6 Boston Waterfront,737.0831154739603,1 8th St,3.5,,,
+195,seafood,Seafood,Pier 6 Boston Waterfront,737.0831154739603,1 8th St,3.5,,,
+196,mexican,Mexican,Cactus Mexican Grill,382.07743203250425,44 Maverick Sq,4.0,,,
+197,salvadoran,Salvadoran,Cactus Mexican Grill,382.07743203250425,44 Maverick Sq,4.0,,,
+198,italian,Italian,Prezza,1369.377310513071,24 Fleet St,4.0,,,
+199,desserts,Desserts,Prezza,1369.377310513071,24 Fleet St,4.0,,,
+200,salad,Salad,Prezza,1369.377310513071,24 Fleet St,4.0,,,
+201,juicebars,Juice Bars & Smoothies,East Boston Farm Stand,228.49787245911617,75 Meridian St,4.5,,,
+202,markets,Fruits & Veggies,East Boston Farm Stand,228.49787245911617,75 Meridian St,4.5,,,
+203,sandwiches,Sandwiches,East Boston Farm Stand,228.49787245911617,75 Meridian St,4.5,,,
+204,speakeasies,Speakeasies,Next Door Speakeasy & Raw Bar,407.2040665025496,107 Porter St,4.0,,,
+205,raw_food,Live/Raw Food,Next Door Speakeasy & Raw Bar,407.2040665025496,107 Porter St,4.0,,,
+206,cocktailbars,Cocktail Bars,Next Door Speakeasy & Raw Bar,407.2040665025496,107 Porter St,4.0,,,
+207,mexican,Mexican,Angela's Cafe - Eagle Hill,758.0878871081896,131 Lexington St,4.0,,,
+208,breakfast_brunch,Breakfast & Brunch,Angela's Cafe - Eagle Hill,758.0878871081896,131 Lexington St,4.0,,,
+209,mexican,Mexican,Mi Pueblito Restaurant,642.9234061104327,333 Border St,4.0,,,
+210,salvadoran,Salvadoran,Mi Pueblito Restaurant,642.9234061104327,333 Border St,4.0,,,
+211,seafood,Seafood,Mi Pueblito Restaurant,642.9234061104327,333 Border St,4.0,,,
+212,Pub,Pub,Renegade's Pub,53.0,1004 Bennington St,,,,
+213,Dining and Drinking,Dining and Drinking,Renegade's Pub,53.0,1004 Bennington St,,,,
+214,American,American Restaurant,Donna's Restaurant,93.0,980 Saratoga St,,,,
+215,Cantonese,Cantonese Restaurant,Little Asia,92.0,991 Bennington St,,,,
+216,Liquor Store,Liquor Store,Woody's Liquors,94.0,1035 Saratoga St,,,,
+217,Beach,Beach,Constitution Beach,322.0,799 Bennington St,,,,
+218,American,American Restaurant,Royal Roast Beef & Seafood,401.0,752 Bennington St,,,,
+219,Fast Food,Fast Food Restaurant,Royal Roast Beef & Seafood,401.0,752 Bennington St,,,,
+220,Seafood,Seafood Restaurant,Royal Roast Beef & Seafood,401.0,752 Bennington St,,,,
+221,Deli,Deli,Subway,270.0,948 Bennington St,,,,
+222,Fast Food,Fast Food Restaurant,Subway,270.0,948 Bennington St,,,,
+223,Drugstore,Drugstore,CVS Pharmacy,623.0,1150 Saratoga St,,,,
+224,Pizza,Pizzeria,Domino's Pizza,534.0,1144 Saratoga St,,,,
+225,Fast Food,Fast Food Restaurant,Domino's Pizza,534.0,1144 Saratoga St,,,,
+226,Coffee Shop,Coffee Shop,Starbucks,824.0,430 William F McClellan Hwy,,,,
+227,Burritos,Burrito Restaurant,Cactus Mexican Grill,141.0,44 Maverick Sq,,,,
+228,Tacos,Taco Restaurant,Cactus Mexican Grill,141.0,44 Maverick Sq,,,,
+229,Salvadoran,Salvadoran Restaurant,Cactus Mexican Grill,141.0,44 Maverick Sq,,,,
+230,Park,Park,East Boston Greenway,226.0,Bremen St,,,,
+231,Beer Bar,Beer Bar,Cunard Tavern,194.0,24 Orleans St,,,,
+232,Gastropub,Gastropub,Cunard Tavern,194.0,24 Orleans St,,,,
+233,American,American Restaurant,Cunard Tavern,194.0,24 Orleans St,,,,
+234,Coffee Shop,Coffee Shop,Toasted Flats,335.0,53 Chelsea St,,,,
+235,Sandwich Spot,Sandwich Spot,Toasted Flats,335.0,53 Chelsea St,,,,
+236,Whisky Bar,Whisky Bar,The Quiet Few,366.0,331 Sumner St,,,,
+237,Dining and Drinking,Dining and Drinking,The Quiet Few,366.0,331 Sumner St,,,,
+238,Post Office,Post Office,United States Postal Service,272.0,50 Meridian St,,,,
+239,Park,Park,LoPresti Park,295.0,Sumner St,,,,
+240,Halal,Halal Restaurant,Mehak Halal - Pakistani & Indian Cuisine,362.0,329 Sumner St,,,,
+241,Indian,Indian Restaurant,Mehak Halal - Pakistani & Indian Cuisine,362.0,329 Sumner St,,,,
+242,Pakistani,Pakistani Restaurant,Mehak Halal - Pakistani & Indian Cuisine,362.0,329 Sumner St,,,,
+243,Bar,Bar,Cafe Gigu,436.0,102 Meridian St,,,,
+244,Park,Park,Piers Park,505.0,95 Marginal St,,,,
+245,Burritos,Burrito Restaurant,Cactus Mexican Grill,60.0,44 Maverick Sq,,,,
+246,Tacos,Taco Restaurant,Cactus Mexican Grill,60.0,44 Maverick Sq,,,,
+247,Salvadoran,Salvadoran Restaurant,Cactus Mexican Grill,60.0,44 Maverick Sq,,,,
+248,Coffee Shop,Coffee Shop,Toasted Flats,259.0,53 Chelsea St,,,,
+249,Sandwich Spot,Sandwich Spot,Toasted Flats,259.0,53 Chelsea St,,,,
+250,Post Office,Post Office,United States Postal Service,192.0,50 Meridian St,,,,
+251,Park,Park,East Boston Greenway,308.0,Bremen St,,,,
+252,Beer Bar,Beer Bar,Cunard Tavern,257.0,24 Orleans St,,,,
+253,Gastropub,Gastropub,Cunard Tavern,257.0,24 Orleans St,,,,
+254,American,American Restaurant,Cunard Tavern,257.0,24 Orleans St,,,,
+255,Bar,Bar,Cafe Gigu,357.0,102 Meridian St,,,,
+256,Whisky Bar,Whisky Bar,The Quiet Few,392.0,331 Sumner St,,,,
+257,Dining and Drinking,Dining and Drinking,The Quiet Few,392.0,331 Sumner St,,,,
+258,Park,Park,LoPresti Park,297.0,Sumner St,,,,
+259,Grocery Store,Grocery Store,Meridian Food Market,407.0,121 Meridian St,,,,
+260,Halal,Halal Restaurant,Mehak Halal - Pakistani & Indian Cuisine,387.0,329 Sumner St,,,,
+261,Indian,Indian Restaurant,Mehak Halal - Pakistani & Indian Cuisine,387.0,329 Sumner St,,,,
+262,Pakistani,Pakistani Restaurant,Mehak Halal - Pakistani & Indian Cuisine,387.0,329 Sumner St,,,,
+263,Elementary School,Elementary School,Brooke Charter School,83.0,94 Horace St,,,,
+264,Church,Church,Grace Church Federated,99.0,758 Saratoga St,,,,
+265,Church,Church,Universal Church,185.0,55 Moore St,,,,
+266,Park,Park,St Mary's Park,202.0,,,,,
+267,Sandwich Spot,Sandwich Spot,Sammy Carlo's Delicatessen & Catering,209.0,567 Bennington St,,,,
+268,Gourmet,Gourmet Store,Sammy Carlo's Delicatessen & Catering,209.0,567 Bennington St,,,,
+269,American,American Restaurant,Royal Roast Beef & Seafood,504.0,752 Bennington St,,,,
+270,Fast Food,Fast Food Restaurant,Royal Roast Beef & Seafood,504.0,752 Bennington St,,,,
+271,Seafood,Seafood Restaurant,Royal Roast Beef & Seafood,504.0,752 Bennington St,,,,
+272,Gift Store,Gift Store,Boston Tops,251.0,200 Terminal E,,,,
+273,Hotel Bar,Hotel Bar,Courtyard Marriott Bar,431.0,225 William F McClellan Hwy,,,,
+274,Café,Café,The Bistro At The Courtyard Marriott,437.0,225 William F McClellan Hwy,,,,
+275,Grocery Store,Grocery Store,The Corner Mini Market,394.0,515 Bennington St,,,,
+276,Latin American,Latin American Restaurant,La Hacienda,178.0,150 Meridian St,,,,
+277,Mexican,Mexican Restaurant,La Hacienda,178.0,150 Meridian St,,,,
+278,Grocery Store,Grocery Store,Meridian Food Market,171.0,121 Meridian St,,,,
+279,Bar,Bar,Cafe Gigu,158.0,102 Meridian St,,,,
+280,Post Office,Post Office,United States Postal Service,266.0,50 Meridian St,,,,
+281,Coffee Shop,Coffee Shop,Toasted Flats,399.0,53 Chelsea St,,,,
+282,Sandwich Spot,Sandwich Spot,Toasted Flats,399.0,53 Chelsea St,,,,
+283,Peruvian,Peruvian Restaurant,El Penol,423.0,54 Bennington St,,,,
+284,Dining and Drinking,Dining and Drinking,ReelHouse,374.0,6 New St,,,,
+285,Pizza,Pizzeria,Santarpio's Pizza,469.0,111 Chelsea St,,,,
+286,Park,Park,LoPresti Park,396.0,Sumner St,,,,
+287,Burritos,Burrito Restaurant,Cactus Mexican Grill,403.0,44 Maverick Sq,,,,
+288,Tacos,Taco Restaurant,Cactus Mexican Grill,403.0,44 Maverick Sq,,,,
+289,Salvadoran,Salvadoran Restaurant,Cactus Mexican Grill,403.0,44 Maverick Sq,,,,
+290,Pub,Pub,Renegade's Pub,53.0,1004 Bennington St,,8.0,-71.006098,42.386781
+291,Dining and Drinking,Dining and Drinking,Renegade's Pub,53.0,1004 Bennington St,,8.0,-71.006098,42.386781
+292,American,American Restaurant,Donna's Restaurant,93.0,980 Saratoga St,,8.0,-71.006098,42.386781
+293,Cantonese,Cantonese Restaurant,Little Asia,92.0,991 Bennington St,,8.0,-71.006098,42.386781
+294,Liquor Store,Liquor Store,Woody's Liquors,94.0,1035 Saratoga St,,8.0,-71.006098,42.386781
+295,Beach,Beach,Constitution Beach,322.0,799 Bennington St,,8.0,-71.006098,42.386781
+296,American,American Restaurant,Royal Roast Beef & Seafood,401.0,752 Bennington St,,8.0,-71.006098,42.386781
+297,Fast Food,Fast Food Restaurant,Royal Roast Beef & Seafood,401.0,752 Bennington St,,8.0,-71.006098,42.386781
+298,Seafood,Seafood Restaurant,Royal Roast Beef & Seafood,401.0,752 Bennington St,,8.0,-71.006098,42.386781
+299,Deli,Deli,Subway,270.0,948 Bennington St,,8.0,-71.006098,42.386781
+300,Fast Food,Fast Food Restaurant,Subway,270.0,948 Bennington St,,8.0,-71.006098,42.386781
+301,Drugstore,Drugstore,CVS Pharmacy,623.0,1150 Saratoga St,,8.0,-71.006098,42.386781
+302,Pizza,Pizzeria,Domino's Pizza,534.0,1144 Saratoga St,,8.0,-71.006098,42.386781
+303,Fast Food,Fast Food Restaurant,Domino's Pizza,534.0,1144 Saratoga St,,8.0,-71.006098,42.386781
+304,Coffee Shop,Coffee Shop,Starbucks,824.0,430 William F McClellan Hwy,,8.0,-71.006098,42.386781
+305,Burritos,Burrito Restaurant,Cactus Mexican Grill,141.0,44 Maverick Sq,,9.0,-71.03977829217911,42.36884408289836
+306,Tacos,Taco Restaurant,Cactus Mexican Grill,141.0,44 Maverick Sq,,9.0,-71.03977829217911,42.36884408289836
+307,Salvadoran,Salvadoran Restaurant,Cactus Mexican Grill,141.0,44 Maverick Sq,,9.0,-71.03977829217911,42.36884408289836
+308,Park,Park,East Boston Greenway,226.0,Bremen St,,9.0,-71.03977829217911,42.36884408289836
+309,Beer Bar,Beer Bar,Cunard Tavern,194.0,24 Orleans St,,9.0,-71.03977829217911,42.36884408289836
+310,Gastropub,Gastropub,Cunard Tavern,194.0,24 Orleans St,,9.0,-71.03977829217911,42.36884408289836
+311,American,American Restaurant,Cunard Tavern,194.0,24 Orleans St,,9.0,-71.03977829217911,42.36884408289836
+312,Coffee Shop,Coffee Shop,Toasted Flats,335.0,53 Chelsea St,,9.0,-71.03977829217911,42.36884408289836
+313,Sandwich Spot,Sandwich Spot,Toasted Flats,335.0,53 Chelsea St,,9.0,-71.03977829217911,42.36884408289836
+314,Whisky Bar,Whisky Bar,The Quiet Few,366.0,331 Sumner St,,9.0,-71.03977829217911,42.36884408289836
+315,Dining and Drinking,Dining and Drinking,The Quiet Few,366.0,331 Sumner St,,9.0,-71.03977829217911,42.36884408289836
+316,Post Office,Post Office,United States Postal Service,272.0,50 Meridian St,,9.0,-71.03977829217911,42.36884408289836
+317,Park,Park,LoPresti Park,295.0,Sumner St,,9.0,-71.03977829217911,42.36884408289836
+318,Halal,Halal Restaurant,Mehak Halal - Pakistani & Indian Cuisine,362.0,329 Sumner St,,9.0,-71.03977829217911,42.36884408289836
+319,Indian,Indian Restaurant,Mehak Halal - Pakistani & Indian Cuisine,362.0,329 Sumner St,,9.0,-71.03977829217911,42.36884408289836
+320,Pakistani,Pakistani Restaurant,Mehak Halal - Pakistani & Indian Cuisine,362.0,329 Sumner St,,9.0,-71.03977829217911,42.36884408289836
+321,Bar,Bar,Cafe Gigu,436.0,102 Meridian St,,9.0,-71.03977829217911,42.36884408289836
+322,Park,Park,Piers Park,505.0,95 Marginal St,,9.0,-71.03977829217911,42.36884408289836
+323,Burritos,Burrito Restaurant,Cactus Mexican Grill,60.0,44 Maverick Sq,,7.0,-71.039431,42.369536
+324,Tacos,Taco Restaurant,Cactus Mexican Grill,60.0,44 Maverick Sq,,7.0,-71.039431,42.369536
+325,Salvadoran,Salvadoran Restaurant,Cactus Mexican Grill,60.0,44 Maverick Sq,,7.0,-71.039431,42.369536
+326,Coffee Shop,Coffee Shop,Toasted Flats,259.0,53 Chelsea St,,7.0,-71.039431,42.369536
+327,Sandwich Spot,Sandwich Spot,Toasted Flats,259.0,53 Chelsea St,,7.0,-71.039431,42.369536
+328,Post Office,Post Office,United States Postal Service,192.0,50 Meridian St,,7.0,-71.039431,42.369536
+329,Park,Park,East Boston Greenway,308.0,Bremen St,,7.0,-71.039431,42.369536
+330,Beer Bar,Beer Bar,Cunard Tavern,257.0,24 Orleans St,,7.0,-71.039431,42.369536
+331,Gastropub,Gastropub,Cunard Tavern,257.0,24 Orleans St,,7.0,-71.039431,42.369536
+332,American,American Restaurant,Cunard Tavern,257.0,24 Orleans St,,7.0,-71.039431,42.369536
+333,Bar,Bar,Cafe Gigu,357.0,102 Meridian St,,7.0,-71.039431,42.369536
+334,Whisky Bar,Whisky Bar,The Quiet Few,392.0,331 Sumner St,,7.0,-71.039431,42.369536
+335,Dining and Drinking,Dining and Drinking,The Quiet Few,392.0,331 Sumner St,,7.0,-71.039431,42.369536
+336,Park,Park,LoPresti Park,297.0,Sumner St,,7.0,-71.039431,42.369536
+337,Grocery Store,Grocery Store,Meridian Food Market,407.0,121 Meridian St,,7.0,-71.039431,42.369536
+338,Halal,Halal Restaurant,Mehak Halal - Pakistani & Indian Cuisine,387.0,329 Sumner St,,7.0,-71.039431,42.369536
+339,Indian,Indian Restaurant,Mehak Halal - Pakistani & Indian Cuisine,387.0,329 Sumner St,,7.0,-71.039431,42.369536
+340,Pakistani,Pakistani Restaurant,Mehak Halal - Pakistani & Indian Cuisine,387.0,329 Sumner St,,7.0,-71.039431,42.369536
+341,Elementary School,Elementary School,Brooke Charter School,83.0,94 Horace St,,2.0,-71.01619094610214,42.383532520117896
+342,Church,Church,Grace Church Federated,99.0,758 Saratoga St,,2.0,-71.01619094610214,42.383532520117896
+343,Church,Church,Universal Church,185.0,55 Moore St,,2.0,-71.01619094610214,42.383532520117896
+344,Park,Park,St Mary's Park,202.0,,,2.0,-71.01619094610214,42.383532520117896
+345,Sandwich Spot,Sandwich Spot,Sammy Carlo's Delicatessen & Catering,209.0,567 Bennington St,,2.0,-71.01619094610214,42.383532520117896
+346,Gourmet,Gourmet Store,Sammy Carlo's Delicatessen & Catering,209.0,567 Bennington St,,2.0,-71.01619094610214,42.383532520117896
+347,American,American Restaurant,Royal Roast Beef & Seafood,504.0,752 Bennington St,,2.0,-71.01619094610214,42.383532520117896
+348,Fast Food,Fast Food Restaurant,Royal Roast Beef & Seafood,504.0,752 Bennington St,,2.0,-71.01619094610214,42.383532520117896
+349,Seafood,Seafood Restaurant,Royal Roast Beef & Seafood,504.0,752 Bennington St,,2.0,-71.01619094610214,42.383532520117896
+350,Gift Store,Gift Store,Boston Tops,251.0,200 Terminal E,,2.0,-71.01619094610214,42.383532520117896
+351,Hotel Bar,Hotel Bar,Courtyard Marriott Bar,431.0,225 William F McClellan Hwy,,2.0,-71.01619094610214,42.383532520117896
+352,Café,Café,The Bistro At The Courtyard Marriott,437.0,225 William F McClellan Hwy,,2.0,-71.01619094610214,42.383532520117896
+353,Grocery Store,Grocery Store,The Corner Mini Market,394.0,515 Bennington St,,2.0,-71.01619094610214,42.383532520117896
+354,Latin American,Latin American Restaurant,La Hacienda,178.0,150 Meridian St,,7.0,-71.0410200806291,42.373312125824704
+355,Mexican,Mexican Restaurant,La Hacienda,178.0,150 Meridian St,,7.0,-71.0410200806291,42.373312125824704
+356,Grocery Store,Grocery Store,Meridian Food Market,171.0,121 Meridian St,,7.0,-71.0410200806291,42.373312125824704
+357,Bar,Bar,Cafe Gigu,158.0,102 Meridian St,,7.0,-71.0410200806291,42.373312125824704
+358,Post Office,Post Office,United States Postal Service,266.0,50 Meridian St,,7.0,-71.0410200806291,42.373312125824704
+359,Coffee Shop,Coffee Shop,Toasted Flats,399.0,53 Chelsea St,,7.0,-71.0410200806291,42.373312125824704
+360,Sandwich Spot,Sandwich Spot,Toasted Flats,399.0,53 Chelsea St,,7.0,-71.0410200806291,42.373312125824704
+361,Peruvian,Peruvian Restaurant,El Penol,423.0,54 Bennington St,,7.0,-71.0410200806291,42.373312125824704
+362,Dining and Drinking,Dining and Drinking,ReelHouse,374.0,6 New St,,7.0,-71.0410200806291,42.373312125824704
+363,Pizza,Pizzeria,Santarpio's Pizza,469.0,111 Chelsea St,,7.0,-71.0410200806291,42.373312125824704
+364,Park,Park,LoPresti Park,396.0,Sumner St,,7.0,-71.0410200806291,42.373312125824704
+365,Burritos,Burrito Restaurant,Cactus Mexican Grill,403.0,44 Maverick Sq,,7.0,-71.0410200806291,42.373312125824704
+366,Tacos,Taco Restaurant,Cactus Mexican Grill,403.0,44 Maverick Sq,,7.0,-71.0410200806291,42.373312125824704
+367,Salvadoran,Salvadoran Restaurant,Cactus Mexican Grill,403.0,44 Maverick Sq,,7.0,-71.0410200806291,42.373312125824704
