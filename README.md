@@ -45,7 +45,7 @@ A dataset of 25K records was retrieved initially from the APIs. However, data cl
 
 The study of relationship between free bikes in a station and rating of POI indicates that the rating of POI has impact on the number of free bikes in a bike station. The number of free bikes in a station are lower for stations that have high rating for the points of interest in the bike station's vicinity.
 
-With a lower regression coefficient, the study of relationship between free bikes in a station and distance from POI indicates that its a weak relationship. However, the results indicate that there are lesser bikes where POI is farther away perhaps because riders like to ride more to reach their POI.
+With a lower regression coefficient, the study of relationship between free bikes in a station and distance from POI indicates that its a weak relationship. However, the study indicates that there are lesser free bikes where POI is closer to the bike station, i.e, bike-share consumption is high when the POIs are closer.
 
 ## Challenges 
 The following were the main challenges encountered as part of this data analysis:
